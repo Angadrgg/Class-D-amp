@@ -1,0 +1,7 @@
+# KiCad ignore list
+*.kicad_prl
+*.kicad_pcb-bak
+fp-info-cache
+*.bck
+*.lck
+_autosave-*
